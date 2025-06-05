@@ -6,9 +6,7 @@ Ce sharepoint permet particulièrement de stocker des documents d’entreprise p
     • Directeur technique
     • Dir com
     • Administrateur
-    • Documents
-    • Messages
-    • Permission 
+    • Documents 
 
 La section qui nous intéresse est Documents car c’est ici qu’on devra enregistre des documents afin de les réutiliser en entreprise.
 
