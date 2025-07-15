@@ -1,0 +1,35 @@
+.category-container {
+  margin-bottom: 40px;
+}
+
+.category-title {
+  font-size: 2rem; /* Agrandi pour une meilleure lisibilité */
+  color: #2d3436;
+  margin-bottom: 25px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 25px;
+}
+
+.category-card {
+  background-color: #f5f6fa;
+  padding: 30px; /* Plus d'espace pour aérer */
+  border-radius: 16px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.25rem; /* Texte plus gros */
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.category-card:hover {
+  background-color: #dfe6e9;
+  transform: translateY(-4px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+}
