@@ -1,6 +1,6 @@
 SHAREPOINT
 
-Ce sharepoint permet particulièrement de stocker des documents d’entreprise pour faciliter l’utilisation de ces derniers. Il est constitué de deux dossiers à savoir frontshare (frontend) et sharepoint (backend). Lors du lancement de l’application il présente plusieurs sections à savoir :
+Ce sharepoint permet particulièrement de stocker des documents d’entreprise pour faciliter l’utilisation de ces derniers. Il est constitué de deux dossiers à savoir frontshare (frontend) et sharepoint (backend).Pour y accéder, ouvrez un navigateur puis rentrez cet url : http://192.168.100.236:3000.Lors du lancement de l’application il présente plusieurs sections à savoir :
 
     • RH
     • Directeur technique
